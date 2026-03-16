@@ -2,6 +2,7 @@ from openai import OpenAI
 import re
 import pandas as pd
 import time
+import os
 
 # Load your CSV file
 file = "/Users/wanlingyeo/for_fun/hg2054/neutral_occupation_prompts.csv"
@@ -9,7 +10,7 @@ df = pd.read_csv(file)
 
 # Initialize the client
 client = OpenAI(
-    api_key="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", 
+    api_key= os.getenv("OPENAI_API_KEY"), 
     base_url="https://api.openai.com/v1"
 )
 
