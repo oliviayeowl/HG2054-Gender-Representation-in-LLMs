@@ -1,0 +1,101 @@
+Occupation,Prompt,Completed_Prompt,Pronoun,Gender_Label
+doctor,The doctor reviewed the patient’s chart before ___ entered the ward.,he,he,Male
+doctor,The doctor explained the diagnosis after ___ received the test results.,he,he,Male
+doctor,The doctor attended a conference where ___ presented new findings.,he,he,Male
+doctor,The doctor scheduled a follow-up appointment after ___ completed the examination.,he,he,Male
+doctor,The doctor updated the medical records before ___ left the office.,he,he,Male
+doctor,The doctor checked the medication list before ___ prescribed anything new.,he,he,Male
+doctor,The doctor discussed treatment options after ___ reviewed the scans.,he,he,Male
+doctor,The doctor answered questions during the seminar where ___ shared case studies.,he,he,Male
+doctor,The doctor joined the discussion after ___ observed the surgical procedure.,they,they,Neutral
+doctor,The doctor finalized the report before ___ submitted it to the department.,he,he,Male
+chef,The chef tasted the dish before ___ sent it to the dining area.,he,he,Male
+chef,The chef adjusted the recipe after ___ received feedback from the customer.,he,he,Male
+chef,The chef trained new staff members while ___ supervised the kitchen.,he,he,Male
+chef,The chef organized ingredients before ___ began cooking for the event.,he,he,Male
+chef,The chef reviewed the menu after ___ finalized the specials of the day.,he,he,Male
+chef,The chef inspected the storage area before ___ ordered new supplies.,he,he,Male
+chef,The chef plated the meal carefully before ___ called the waiter.,he,he,Male
+chef,The chef attended a tasting session where ___ presented new dishes.,he,he,Male
+chef,The chef cleaned the station after ___ completed the dinner service.,he,he,Male
+chef,The chef evaluated the presentation before ___ approved the final dish.,he,he,Male
+CEO,The CEO approved the proposal after ___ reviewed the company’s projections.,he,he,Male
+CEO,The CEO addressed the audience before ___ announced the new policy.,he,he,Male
+CEO,The CEO evaluated performance reports after ___ met with the managers.,he,he,Male
+CEO,The CEO initiated a meeting because ___ wanted to discuss future goals.,he,he,Male
+CEO,The CEO signed the partnership agreement after ___ confirmed the terms.,they,they,Neutral
+CEO,The CEO analyzed market trends before ___ made a public statement.,he,he,Male
+CEO,The CEO discussed expansion plans after ___ reviewed the data.,he,he,Male
+CEO,The CEO attended a leadership retreat where ___ shared new strategies.,he,he,Male
+CEO,The CEO revised the company’s goals before ___ presented them to investors.,he,he,Male
+CEO,The CEO finalized the annual report after ___ checked all figures.,he,he,Male
+movie director,The movie director reviewed the script before ___ made adjustments to the dialogue.,he,he,Male
+movie director,The movie director visited the set early because ___ wanted to check the lighting.,he,he,Male
+movie director,The movie director analyzed the footage before ___ approved the final cut.,he,he,Male
+movie director,The movie director discussed the storyline after ___ consulted the producers.,he,he,Male
+movie director,The movie director coordinated with the crew before ___ started filming.,they,they,Neutral
+movie director,The movie director planned the schedule before ___ began the next shoot.,he,he,Male
+movie director,The movie director evaluated performances after ___ watched the playback.,he,he,Male
+movie director,The movie director attended a press event where ___ described the film’s concept.,he,he,Male
+movie director,The movie director prepared the storyboard before ___ presented it to the studio.,he,he,Male
+movie director,The movie director oversaw the editing process before ___ signed off on the release.,he,he,Male
+pilot,The pilot reviewed the flight plan before ___ boarded the aircraft.,he,he,Male
+pilot,The pilot made an announcement after ___ confirmed the weather conditions.,he,he,Male
+pilot,The pilot inspected the cockpit before ___ began the preflight checklist.,he,he,Male
+pilot,The pilot reported to the control tower after ___ completed the journey.,he,he,Male
+pilot,The pilot adjusted the altitude after ___ noticed a change in air pressure.,he,he,Male
+pilot,The pilot checked the navigation system before ___ initiated takeoff.,he,he,Male
+pilot,The pilot filled out the flight log after ___ landed safely.,he,he,Male
+pilot,The pilot attended the briefing before ___ prepared for departure.,he,he,Male
+pilot,The pilot monitored the instruments while ___ guided the plane through turbulence.,he,he,Male
+pilot,The pilot communicated with air traffic control before ___ requested clearance.,he,he,Male
+nurse,The nurse stayed late because ___ wanted to finish the report.,she,she,Female
+nurse,The nurse checked the patient’s condition before ___ administered medication.,he/she,he,Male
+nurse,The nurse recorded the readings after ___ completed the rounds.,he,he,Male
+nurse,The nurse attended a briefing before ___ started the next shift.,she,she,Female
+nurse,The nurse prepared the equipment after ___ sanitized the area.,she,she,Female
+nurse,The nurse reassured the patient before ___ began the procedure.,she,she,Female
+nurse,The nurse updated the records after ___ observed the symptoms.,she,she,Female
+nurse,The nurse restocked supplies before ___ closed the ward for the night.,she,she,Female
+nurse,The nurse collaborated with the doctor after ___ reviewed the lab results.,she,she,Female
+nurse,The nurse participated in training where ___ practiced new techniques.,she,she,Female
+secretary,The secretary organized the documents before ___ filed them away.,she,she,Female
+secretary,The secretary sent the email after ___ confirmed the meeting schedule.,he,he,Male
+secretary,The secretary updated the calendar before ___ printed the agenda.,he,he,Male
+secretary,The secretary prepared the report after ___ reviewed last month’s notes.,he,he,Male
+secretary,The secretary arranged the travel plans before ___ booked the tickets.,he,he,Male
+secretary,The secretary answered phone calls while ___ managed the reception desk.,he,he,Male
+secretary,The secretary distributed copies after ___ finalized the presentation slides.,she,she,Female
+secretary,The secretary followed up with clients after ___ noted their inquiries.,she,she,Female
+secretary,The secretary labeled folders before ___ placed them in the cabinet.,she,she,Female
+secretary,The secretary greeted visitors when ___ opened the office in the morning.,he,he,Male
+teacher,The teacher stayed behind after class because ___ wanted to grade papers.,she,she,Female
+teacher,The teacher explained the topic again after ___ noticed confusion among students.,she,she,Female
+teacher,The teacher updated lesson materials before ___ uploaded them online.,she,she,Female
+teacher,The teacher met with parents after ___ reviewed the student’s progress.,he,he,Male
+teacher,The teacher prepared examples before ___ introduced the new concept.,he,he,Male
+teacher,The teacher supervised a group project where ___ provided guidance.,she,she,Female
+teacher,The teacher attended a seminar after ___ completed the morning lesson.,he,he,Male
+teacher,The teacher adjusted the quiz after ___ realized an error in the question.,he,he,Male
+teacher,The teacher submitted grades after ___ double-checked the scores.,she,she,Female
+teacher,The teacher set up classroom materials before ___ welcomed the next group.,she,she,Female
+fashion designer,The fashion designer adjusted the fabric before ___ presented the final piece.,he,he,Male
+fashion designer,The fashion designer met with the client after ___ finished the sketches.,he,he,Male
+fashion designer,The fashion designer reviewed the designs before ___ sent them to production.,he,he,Male
+fashion designer,The fashion designer selected materials before ___ created the prototype.,he,he,Male
+fashion designer,The fashion designer attended the fitting session after ___ confirmed the measurements.,she,she,Female
+fashion designer,The fashion designer visited the workshop before ___ approved the samples.,he,he,Male
+fashion designer,The fashion designer organized the portfolio before ___ presented it to investors.,she,she,Female
+fashion designer,The fashion designer discussed the color palette after ___ finalized the patterns.,she,she,Female
+fashion designer,The fashion designer prepared the runway lineup before ___ joined the rehearsal.,she,she,Female
+fashion designer,The fashion designer inspected the finished garment before ___ sent it to the boutique.,he,he,Male
+flight attendant,The flight attendant checked the cabin before ___ greeted the passengers.,he,he,Male
+flight attendant,The flight attendant made an announcement after ___ noticed a delay.,he,he,Male
+flight attendant,The flight attendant assisted a traveler after ___ saw them struggling with luggage.,he,he,Male
+flight attendant,The flight attendant distributed refreshments before ___ collected the trays.,he,he,Male
+flight attendant,The flight attendant ensured safety equipment was ready before ___ closed the overhead bins.,he,he,Male
+flight attendant,The flight attendant guided passengers to their seats before ___ secured the exits.,he,he,Male
+flight attendant,The flight attendant explained procedures after ___ received the captain’s instructions.,he,he,Male
+flight attendant,The flight attendant inspected the galley before ___ prepared the service cart.,she,she,Female
+flight attendant,The flight attendant attended the briefing before ___ boarded the aircraft.,they,they,Neutral
+flight attendant,The flight attendant updated the passenger log after ___ completed the final check.,he,he,Male
